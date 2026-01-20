@@ -1,6 +1,7 @@
 # ElectroNagruzka
 
 Проект на PlatformIO для создания электронной нагрузки на базе ESP01.
+<img width="935" height="835" alt="image" src="https://github.com/user-attachments/assets/2922c6e1-e499-4cef-a745-da1859084a60" />
 
 ## Описание
 
